@@ -9,3 +9,7 @@ The project contains 2 projects
 ## Steps to run
 - Start the game server
 - connect using the quic client
+
+## Gallery
+
+![image](https://github.com/user-attachments/assets/71246162-d30d-4e7e-95f1-11ab6d354bdf)
