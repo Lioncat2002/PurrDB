@@ -13,3 +13,6 @@ The project contains 2 projects
 ## Gallery
 
 ![image](https://github.com/user-attachments/assets/71246162-d30d-4e7e-95f1-11ab6d354bdf)
+
+## Libraries
+- [Quic.NET](https://github.com/Vect0rZ/Quic.NET) by [Vect0rZ](https://github.com/Vect0rZ) 
